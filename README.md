@@ -1,6 +1,6 @@
 # Encoder
 
-A simple python program to encode vowels into digits
+A simple python program to encode vowels into digits and vice versa
 
 
 ## Usage
